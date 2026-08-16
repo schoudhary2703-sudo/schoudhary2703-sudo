@@ -47,23 +47,24 @@ Fourth-year B.Tech student at NIT Jalandhar, currently focused on strengthening 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=schoudhary2703-sudo&theme=radical&hide_border=true" />
 </p>
 
-<br>
 
-## LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sandeep1008?theme=dark&font=baloo&ext=heatmap" />
-</p>
+
 
 <br>
 
-## Contribution Snake
+
+<br>
+
+## Interactive Pathfinding Visualizer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/schoudhary2703-sudo/schoudhary2703-sudo/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+  <a href="https://schoudhary2703-sudo.github.io/pathfinder-visualizer/">
+    <img src="https://img.shields.io/badge/Launch interactive demo-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=D85A30">
+  </a>
 </p>
 
-<p align="center"><sub>A small game that eats through my contribution graph — auto-generated and updated daily. See <code>.github/workflows/snake.yml</code> for setup.</sub></p>
+<p align="center"><sub>Place a start and end point on the grid, add walls, and watch breadth-first search, depth-first search, Dijkstra, or A* find a path in real time.</sub></p>
 
 <br>
 
