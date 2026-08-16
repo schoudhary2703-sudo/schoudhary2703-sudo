@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sandeep Choudhary 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=B.Tech+%40+NIT+Jalandhar;Digital+Design+%7C+Verilog+%7C+RTL;Machine+Learning+%2B+Embedded+Systems;Competitive+Programmer+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;B.Tech+%40+NIT+Jalandhar;Data+Structures+%26+Algorithms;Full-Stack+%2F+React+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,24 +14,28 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Studying at **NIT Jalandhar**
-- 🔬 Currently working on **NeuroPulse-RTL** — a pipelined 16-bit fixed-point neural network inference engine for ECG diagnostics, implemented in Verilog
-- 🧠 Interested in **digital design, RTL, embedded ML, and hardware acceleration**
-- 📚 Practicing DSA daily — building out a curated **LeetCode problems** repository
+- 🎓 B.Tech student at **NIT Jalandhar**
+- 💻 Aspiring **Software Development Engineer**, focused on building clean, efficient, and scalable software
+- 📚 Solving DSA problems daily and maintaining a curated **LeetCode problems** repository to sharpen algorithmic thinking
+- ⚛️ Building and experimenting with **React** for front-end development
+- 🧩 Comfortable across the stack: **C++**, **JavaScript**, and **Python**
 - 📍 Based in India
-- ⚡ Fun fact: I like turning hardware and algorithms problems into working silicon-flavored code
+- 🎯 Currently prepping for SDE interviews — always open to collaborating on software projects
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/DSA-black?style=for-the-badge">
 </p>
 
 ---
@@ -72,7 +76,6 @@
 
 | Repo | Description |
 |---|---|
-| 🔧 [NeuroPulse-RTL](https://github.com/schoudhary2703-sudo/NeuroPulse-RTL) | Pipelined 16-bit fixed-point neural network inference engine for ECG diagnostics, in Verilog |
 | 🧮 [leetcodeProblems](https://github.com/schoudhary2703-sudo/leetcodeProblems) | Collection of LeetCode questions to ace the coding interview |
 | ⚛️ [react](https://github.com/schoudhary2703-sudo/react) | React practice / experiments |
 
