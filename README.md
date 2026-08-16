@@ -33,19 +33,9 @@ Fourth-year B.Tech student at NIT Jalandhar, currently focused on strengthening 
   <img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032">
 </p>
 
-<br>
 
-## GitHub Activity
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
-<p align="center"><sub>Generated automatically once a day by a GitHub Action — see <code>.github/workflows/metrics.yml</code></sub></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schoudhary2703-sudo&theme=radical&hide_border=true" />
-</p>
 
 
 
@@ -54,7 +44,7 @@ Fourth-year B.Tech student at NIT Jalandhar, currently focused on strengthening 
 <br>
 
 
-<br>
+
 
 ## Interactive Pathfinding Visualizer
 
