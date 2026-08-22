@@ -7,12 +7,18 @@
 </p>
 
 <p align="center">
+  <img alt="left" width="250" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wNGxHlTCsH9zU90WDouoDQ.gif">
+  <img align="center" alt="beavis coding" width="250" src="https://media1.tenor.com/m/nPxAn9NBqfIAAAAC/beavis-computer.gif">
+
+</p>
+
+<p align="center">
   <a href="mailto:schoudhary2703@gmail.com"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
-  <a href="https://www.linkedin.com/in/sandeep-choudhary-491324339/"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=0077B5"></a>
   <a href="https://leetcode.com/u/sandeep1008/"><img src="https://img.shields.io/badge/LeetCode-2b2b2b?style=for-the-badge&logo=leetcode&logoColor=FFA116"></a>
 </p>
 
 <br>
+
 
 ## About
 
@@ -33,18 +39,7 @@ Fourth-year B.Tech student at NIT Jalandhar, currently focused on strengthening 
   <img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032">
 </p>
 
-
-
-
-
-
-
-
-
 <br>
-
-
-
 
 ## Interactive Pathfinding Visualizer
 
