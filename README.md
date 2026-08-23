@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&pause=1000&color=E8E8E8&center=true&vCenter=true&width=650&lines=Sandeep+Choudhary" alt="Sandeep Choudhary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&pause=10000&color=E8E8E8&center=true&vCenter=true&width=650&lines=Sandeep+Choudhary" alt="Sandeep Choudhary" />
 </h1>
 
 <p align="center">
