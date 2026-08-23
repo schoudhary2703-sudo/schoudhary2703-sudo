@@ -28,16 +28,16 @@ Fourth-year B.Tech student at NIT Jalandhar, currently focused on strengthening 
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
-  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/Node.js-2b2b2b?style=for-the-badge&logo=node.js&logoColor=339933">
-  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-2b2b2b?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032">
-</p>
+</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://github.com/Priyanshuu-u" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="github profile" height="40" width="40" /></a>
+<a href="https://github.com/Priyanshuu-u" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" height="40" width="40" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="git" height="40" width="40" /></a>
+<a href="https://www.w3schools.com/html/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="git" height="40" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="git" height="40" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="git" height="40" width="40" /></a>
 
 <br>
 
